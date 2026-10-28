@@ -40,7 +40,7 @@
   <button id="pxBtn" aria-label="Chat with PubliXo">💬</button>
   <div id="pxBox">
     <div id="pxHead">
-      <div>Sara — Nasser's Assistant<small id="pxStatus">Ask by text or voice</small></div>
+      <div>Sara — Nasser Ahmed's Assistant<small id="pxStatus">Ask by text or voice</small></div>
       <div><button id="pxClose" title="Close">✕</button></div>
     </div>
     <div id="pxMsgs"></div>
