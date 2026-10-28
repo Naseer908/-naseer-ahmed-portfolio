@@ -63,7 +63,7 @@
   document.body.insertAdjacentHTML('beforeend', widgetHTML);
 
   // ========== 3. JAVASCRIPT LOGIC ==========
-  const API = "https://wa-bot.naseersatti0301.workers.dev/chat";
+  const API = "https://ancient-breeze-8d49.n81732331.workers.dev/chat";
   const LEAD_API = API.replace(/\/chat$/, "/lead");
   const LEAD_END_API = API.replace(/\/chat$/, "/lead/end");
   const END_IDLE_MS = 3 * 60 * 1000;   // itni der koi message na aaye to baat-cheet khatam maani jaye
