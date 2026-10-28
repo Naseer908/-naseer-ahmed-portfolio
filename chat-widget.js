@@ -103,7 +103,7 @@
     return d;
   }
 
-  add("Hi! 👋 I'm Sara, Nasser's assistant. Ask me about WordPress websites, SEO, speed optimization, or custom development — or just say hello!", "bot");
+  add("Hi! 👋 I'm Sara, Nasser Ahmed's assistant. Ask me about WordPress websites, SEO, speed optimization, or custom development — or just say hello!", "bot");
 
   /* ---------- Language detection ---------- */
   function detectLang(text) {
