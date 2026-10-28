@@ -1,0 +1,172 @@
+# Nasser Ahmed — WordPress Developer & SEO Specialist
+
+## ABOUT
+
+Nasser Ahmed is a WordPress developer and technical SEO specialist based in Islamabad, Pakistan. He has 4+ years of experience and has built 150+ WordPress websites for e-commerce, service businesses, and tech companies across Pakistan, UK, Australia, and international markets.
+
+Each project includes technical SEO optimization, schema markup, speed tuning, and custom HTML/CSS/JS/Python solutions when WordPress alone isn't enough.
+
+He is currently available for freelance work and new projects.
+
+## SERVICES
+
+1. WordPress Website Development
+   - Custom WordPress builds from scratch
+   - Elementor page building
+   - Theme customization
+   - Plugin configuration and custom plugin development
+
+2. WooCommerce E-commerce Development
+   - Product setup, cart, checkout flow
+   - Product filters and search
+   - Mobile-first checkout optimization
+   - Payment gateway integration
+
+3. Technical SEO
+   - On-page SEO (titles, meta, headings, content structure)
+   - Local SEO (Google Business Profile, service area pages)
+   - Schema markup (JSON-LD, Yoast configuration)
+   - Google Search Console setup and monitoring
+   - Site audits and SEO foundation
+
+4. Speed Optimization
+   - GTmetrix and PageSpeed improvements
+   - Image optimization, caching, CDN setup
+   - Hosting and DNS configuration
+   - Core Web Vitals optimization
+
+5. Website Migration
+   - Migration from old platforms to WordPress
+   - Content restructuring for SEO
+   - Metadata preservation and redirection setup
+   - Zero-downtime migration
+
+6. Custom Development (HTML, CSS, JS, Python)
+   - Static websites and web apps
+   - Python/Flask backends
+   - Custom tools and utilities
+   - Browser-based applications
+
+7. AI Chatbot Development
+   - RAG (Retrieval-Augmented Generation) chatbots
+   - WhatsApp and website chatbots
+   - Self-hosted LLM solutions
+   - Lead capture and customer support bots
+
+## PRICING (STARTING FROM)
+
+- Basic WordPress website: starting from PKR 15,000
+- Business WordPress website: starting from PKR 35,000
+- WooCommerce e-commerce store: starting from PKR 50,000
+- Technical SEO audit: starting from PKR 10,000
+- Speed optimization: starting from PKR 8,000
+- Custom HTML/CSS/JS website: starting from PKR 20,000
+- AI chatbot setup: starting from PKR 25,000
+- WordPress plugin development: starting from PKR 20,000
+
+Note: Final price depends on project scope and requirements. Contact for a custom quote.
+
+## PORTFOLIO — WORDPRESS PROJECTS
+
+1. elyviohomes.pk — Multi-category furniture e-commerce store with WooCommerce, product filters, cart optimization, mobile-first checkout.
+
+2. emerald247.co.uk — UK recruitment agency with sector-specific landing pages (healthcare, education, engineering). Full UX review, performance tuning, lead capture optimization.
+
+3. terravoltenergy.com — Energy technology company site with Google Search Console setup, Yoast schema configuration, local and service page optimization.
+
+4. enerbytetech.com — Energy-tech B2B website. Clean service pages, lead form optimization, technical SEO foundation.
+
+5. limosgo.com — Airport transfer and chauffeur booking platform. Mobile optimized, fast load times, quote request conversions.
+
+6. silkskindoctor.com — Skincare clinic site with on-page SEO for local search, service descriptions, appointment booking integration, patient testimonials.
+
+7. thepsychaffinity.com — Psychology practice site migrated from old platform to WordPress. Content restructured for SEO, metadata optimized, page speed improved 40%+.
+
+8. shcpestcontrol.com — Pest control service site (Islamabad). Local SEO setup, service area pages, schema markup for local businesses, review integration.
+
+9. safehandssecurityservices.com.au — Australian security company website with service pages (guarding, mobile patrols, event security). Local SEO, testimonials, booking integration, lead capture forms.
+
+10. qlcpakistan.com — Shipment tracking system for logistics company. Real-time tracking integration, mobile responsive, performance optimized for high traffic.
+
+Plus 140+ more projects: e-commerce stores, service-based websites, lead generation sites, landing pages, membership sites, local business optimization across pest control, logistics, energy, healthcare, recruitment, and digital marketing industries.
+
+## PORTFOLIO — CUSTOM BUILDS (NO CMS)
+
+1. WordPress SEO Plugin — PHP and JavaScript. Custom plugin for local SEO management. Schema markup generation, meta optimization, local business configuration in one interface.
+
+2. snapcode.site — HTML, CSS, JavaScript. Free online tools platform with 34+ utilities (QR codes, converters, formatters, calculators). Built as static/JS app for speed.
+
+3. theconverterkit.com — Python, Flask, JavaScript. Advanced file conversion platform (documents, images, media, archives). Processes 50+ formats with batch conversion and cloud storage integration.
+
+4. Screen recorder utility — Python, OpenCV, Tkinter. Desktop screen recorder with area selection, region blur/highlight, MP4 export. Packaged as standalone Windows .exe.
+
+5. AI SEO chatbot (RAG) — Python, Flask, Ollama. Retrieval-augmented generation chatbot for SEO questions. Self-hosted on VPS with local LLM, streaming responses, no API costs.
+
+## SKILLS
+
+WordPress & SEO:
+WordPress, Elementor, WooCommerce, WordPress plugins, Technical SEO, On-page SEO, Local SEO, Schema markup, Yoast SEO, Google Search Console, Speed optimization, GTmetrix, Hosting and DNS, Site migration.
+
+Development & Tools:
+HTML, CSS, JavaScript, Python, Flask, PHP, Adobe Photoshop, Adobe Illustrator, Canva, CapCut, Blender, AI tools, Automation.
+
+## EXPERIENCE
+
+- 4+ years of WordPress development
+- 150+ websites built
+- 98% client satisfaction
+- Worked with clients in Pakistan, UK, Australia, and international markets
+- Available for freelance work on Fiverr (fiverr.com/naseerahmed969)
+- Also does uTest QA testing
+
+## PROCESS
+
+1. Discovery — understanding the client's business, goals, and requirements
+2. Proposal — scope, timeline, and quote
+3. Design — mockup or reference-based design approval
+4. Development — WordPress build or custom coding
+5. SEO and optimization — technical SEO, speed, schema
+6. Launch — deployment, testing, handover
+7. Support — post-launch support and maintenance
+
+## CONTACT
+
+- Email: Naseersatti0301@gmail.com
+- Phone / WhatsApp: +92 301 5394177
+- Portfolio: https://naseer-ahmed-portfolio.pages.dev
+- Fiverr: https://www.fiverr.com/naseerahmed969
+- Location: Islamabad, Pakistan
+
+## WORKING HOURS
+
+Available for contact via WhatsApp and email. Usually responds within a few hours during Pakistan Standard Time (PKT) business hours.
+
+## LANGUAGES
+
+English, Urdu (Roman and script)
+
+## FAQ
+
+Q: Do you build websites from scratch?
+A: Yes, both WordPress and custom HTML/CSS/JS/Python builds.
+
+Q: Do you offer SEO with the website?
+A: Yes, technical SEO, on-page SEO, local SEO, and schema markup are included in most projects.
+
+Q: Can you migrate my old website to WordPress?
+A: Yes, migration with content restructuring, SEO preservation, and zero downtime.
+
+Q: Do you work with international clients?
+A: Yes, clients in Pakistan, UK, Australia, and other countries.
+
+Q: How long does a website take?
+A: Depends on scope. A basic WordPress site takes 1-2 weeks. A full e-commerce store can take 3-4 weeks. Contact for a timeline.
+
+Q: Do you offer maintenance?
+A: Yes, post-launch support and maintenance packages are available.
+
+Q: Do you build AI chatbots?
+A: Yes, website and WhatsApp chatbots with RAG, lead capture, and self-hosted LLM options.
+
+Q: How do I get a quote?
+A: WhatsApp on +92 301 5394177 or email Naseersatti0301@gmail.com with your project details.
