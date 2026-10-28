@@ -40,7 +40,7 @@
   <button id="pxBtn" aria-label="Chat with PubliXo">💬</button>
   <div id="pxBox">
     <div id="pxHead">
-      <div>PubliXo Assistant<small id="pxStatus">Ask by text or voice</small></div>
+      <div>Sara — Nasser's Assistant<small id="pxStatus">Ask by text or voice</small></div>
       <div><button id="pxClose" title="Close">✕</button></div>
     </div>
     <div id="pxMsgs"></div>
@@ -103,7 +103,7 @@
     return d;
   }
 
-  add("Hi! 👋 I'm Sara from PubliXo. Ask me about websites, Meta Ads, social media or QR codes, or just say hello!", "bot");
+  add("Hi! 👋 I'm Sara, Nasser's assistant. Ask me about WordPress websites, SEO, speed optimization, or custom development — or just say hello!", "bot");
 
   /* ---------- Language detection ---------- */
   function detectLang(text) {
